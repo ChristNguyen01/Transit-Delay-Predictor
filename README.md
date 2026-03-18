@@ -44,3 +44,13 @@ Predicted delay with explanation such as:
 ## Author
 
 Christ Nguyen
+
+## Contributors
+- Shawn Lin  
+- Bryan Estrada-Cordoba  
+
+## My Contributions
+- Processed and cleaned GTFS transit data (historical and real-time)  
+- Trained and evaluated machine learning models for delay prediction  
+- Analyzed model performance using metrics such as accuracy, precision, recall, and F1-score  
+- Contributed to integrating prediction results into user-facing outputs  
