@@ -11,7 +11,9 @@ Transit systems generate large volumes of schedule and real-time location data. 
 - Python 3.10+
 - pip
 
+--------------------------------------------------
 Installation
+--------------------------------------------------
 
 1. Open terminal in project folder
 
@@ -19,12 +21,14 @@ Installation
 
 pip install -r requirements.txt
 
-Run Project:
-
+--------------------------------------------------
+Run Project
+--------------------------------------------------
 python smart_bus_helper.py
 
-EXAMPLE QUERIES
-
+--------------------------------------------------
+Example Queries
+--------------------------------------------------
 When is the next bus 70?
 Will bus 51 be delayed?
 How early should I leave to arrive by noon?
