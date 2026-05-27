@@ -6,6 +6,29 @@ This project analyzes public transit GTFS data to predict bus delays using machi
 
 Transit systems generate large volumes of schedule and real-time location data. This project processes historical and live GTFS data to estimate delays and provide user-friendly explanations of expected arrival times.
 
+## Requirements
+
+- Python 3.10+
+- pip
+
+Installation
+
+1. Open terminal in project folder
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+Run Project:
+
+python smart_bus_helper.py
+
+EXAMPLE QUERIES
+
+When is the next bus 70?
+Will bus 51 be delayed?
+How early should I leave to arrive by noon?
+
 ## Features
 
 * Processing of historical and real-time GTFS transit data
